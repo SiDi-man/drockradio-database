@@ -1,0 +1,65 @@
+name: DRockRadio Database Audit
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3 * * 1'
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Audit and conservatively repair database
+        run: python3 scripts/audit_database.py --apply
+
+      - name: Build public manifest
+        run: |
+          python3 - <<'PY'
+          import hashlib
+          import json
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          p = Path('data/stations.json')
+          b = p.read_bytes()
+          db = json.loads(b.decode('utf-8'))
+
+          old = (
+              json.loads(Path('data/manifest.json').read_text())
+              if Path('data/manifest.json').exists()
+              else {'DatabaseVersion': 1}
+          )
+
+          version = int(old.get('DatabaseVersion', 1))
+
+          if old.get('Sha256') and old['Sha256'] != hashlib.sha256(b).hexdigest():
+              version += 1
+
+          m = {
+              'DatabaseVersion': version,
+              'LastUpdatedUtc': datetime.now(timezone.utc)
+                  .replace(microsecond=0)
+                  .isoformat()
+                  .replace('+00:00', 'Z'),
+              'StationCount': len(db),
+              'DownloadUrl': 'REPLACE_WITH_PUBLIC_RAW_STATIONS_URL',
+              'Sha256': hashlib.sha256(b).hexdigest()
+          }
+
+          Path('data/manifest.json').write_text(
+              json.dumps(m, indent=2) + '\n'
+          )
+          PY
+
+      - name: Commit maintenance changes
+        run: |
+          git config user.name 'DRockRadio Database Bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/
+          git diff --cached --quiet || git commit -m 'Maintain DRockRadio station database'
+          git push
