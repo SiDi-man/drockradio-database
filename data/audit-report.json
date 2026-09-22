@@ -1,0 +1,1807 @@
+{
+  "GeneratedUtc": "2026-09-22T08:43:15Z",
+  "StationCount": 300,
+  "Changed": false,
+  "Results": [
+    {
+      "Id": "DRR-0001",
+      "Name": "RadCap - Atmospheric Ambient Black Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0002",
+      "Name": "RadCap - Avantgarde Black Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0003",
+      "Name": "RadCap - Gothic Black Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0004",
+      "Name": "RadCap - Symphonic Black Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0005",
+      "Name": "RadCap - Thrash Black Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0006",
+      "Name": "RADCAP: ATMOSPHERIC / AMBIENT BLACK METAL",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0007",
+      "Name": "RADCAP: PROGRESSIVE BLACK / POST-BLACK / BLACKGAZE",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0008",
+      "Name": "Radio Caprice - Gothic Black Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0009",
+      "Name": "Badrock Hard & Heavy",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0010",
+      "Name": "ChroniX Radio Metalcore",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0011",
+      "Name": "RadCap - Black Death Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0012",
+      "Name": "RadCap - Brutal Death Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0013",
+      "Name": "RadCap - Gothic Death Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0014",
+      "Name": "RadCap - Progressive Death Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0015",
+      "Name": "RadCap - Symphonic Death Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0016",
+      "Name": "Radio Caprice - Brutal Death Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0017",
+      "Name": "Radio Caprice - Folk Death Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0018",
+      "Name": "Radio Caprice - Melodic Death Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0019",
+      "Name": "The Voice Of Doom",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0020",
+      "Name": "RadCap - Death Doom Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0021",
+      "Name": "RadCap - Doom Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0022",
+      "Name": "RadCap - Gothic Doom Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0023",
+      "Name": "Radio Caprice - Funeral Doom Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0024",
+      "Name": "ChroniX Aggression",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0025",
+      "Name": "Extreme Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0026",
+      "Name": "RadCap - Folk Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0027",
+      "Name": "Radio Caprice - Folk Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0028",
+      "Name": "BestOfRock.FM Nonstop Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0029",
+      "Name": "ChroniX Radio - Aggression",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0030",
+      "Name": "FluxFM Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0031",
+      "Name": "Heavy Music Atmospheric Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0032",
+      "Name": "Heavy1",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0033",
+      "Name": "Hoex Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0034",
+      "Name": "La Grosse Radio Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0035",
+      "Name": "Metal Devastation Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0036",
+      "Name": "Metal Live Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0037",
+      "Name": "METALchet",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0038",
+      "Name": "Metalwar",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0039",
+      "Name": "N10.AS",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0040",
+      "Name": "Pinguin Aardschok Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0041",
+      "Name": "RadCap - Melodic Heavy Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0042",
+      "Name": "RadCap - Thrash Heavy Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0043",
+      "Name": "RADIO BOB! Iron Maiden",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0044",
+      "Name": "RADIO BOB! Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0045",
+      "Name": "RADIO BOB! Wacken Nonstop",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0046",
+      "Name": "Radio Caprice - Epic Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0047",
+      "Name": "Radio Caprice - Heavy Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0048",
+      "Name": "Radio Caprice - Neue Deutsche Härte",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0049",
+      "Name": "Radio Caprice - Viking Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0050",
+      "Name": "Radio CAPrise",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0051",
+      "Name": "Radio Heavy Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0052",
+      "Name": "Radio Heavy Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0053",
+      "Name": "Radio ROCKS Kyiv 103.6FM HD",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0054",
+      "Name": "Radio ROKS Hard'n'Heavy",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0055",
+      "Name": "Tangra Mega Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0056",
+      "Name": "Tattoo metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0057",
+      "Name": "Thrash Heavy Metal - Caprice Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0058",
+      "Name": "United FM Radio Rock Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0059",
+      "Name": "DOOM Radio - Beats to Rip/Tear to",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0060",
+      "Name": "1.FM - High Voltage Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0061",
+      "Name": "ChroniX AGGRESSION",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0062",
+      "Name": "Glam Rock / Metal - Caprice Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0063",
+      "Name": "http://79.111.119.111:8000/paganmetal.m3u",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0064",
+      "Name": "Insane Realm Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0065",
+      "Name": "MOTORADIO.ONLINE, Just music, no programs",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0066",
+      "Name": "Nt00 Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0067",
+      "Name": "OutOfParadise",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0068",
+      "Name": "Polygon.FM - Main",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0069",
+      "Name": "RadCap - Avant-Garde Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0070",
+      "Name": "RadCap - Dark Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0071",
+      "Name": "RadCap - Drone Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0072",
+      "Name": "RadCap - Epic Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0073",
+      "Name": "RadCap - Female Vocal in Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0074",
+      "Name": "RadCap - Funk Rock Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0075",
+      "Name": "RadCap - Groove Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0076",
+      "Name": "RadCap - Instrumental Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0077",
+      "Name": "RadCap - Jazz Fusion Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0078",
+      "Name": "RadCap - Math Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0079",
+      "Name": "RadCap - Medieval Metal Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0080",
+      "Name": "RadCap - Metalstep",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0081",
+      "Name": "RadCap - Oriental Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0082",
+      "Name": "RadCap - Post Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0083",
+      "Name": "Radio Caprice - Female vocal in metal music",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0084",
+      "Name": "Radio Caprice - Funk Rock / Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0085",
+      "Name": "Radio Caprice - Oriental Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0086",
+      "Name": "Radio Caprice - Post Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0087",
+      "Name": "Radio Caprice - Rock Ballads",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0088",
+      "Name": "Radio Caprice - Symponic Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0089",
+      "Name": "Radio Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0090",
+      "Name": "Radio Rock Pirata",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0091",
+      "Name": "Radio Underground",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0092",
+      "Name": "Roger Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0093",
+      "Name": "RustRadio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0094",
+      "Name": "Silens Clamor",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0095",
+      "Name": "T and J's Radio (HQ MP3)",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0096",
+      "Name": "ГУСЬ.Рок",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0097",
+      "Name": "РАДИО ГУСЬ",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0098",
+      "Name": "RadCap - Melodic Metalcore",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0099",
+      "Name": "RadCap - Metalcore",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0100",
+      "Name": "RADIO BOB! Metalcore",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0101",
+      "Name": "RadCap - Nu Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0102",
+      "Name": "Radio Caprice - Nu Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0103",
+      "Name": "Prog Palace Radio's The Armory",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0104",
+      "Name": "RadCap - Melodic Power Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0105",
+      "Name": "RadCap - Progressive Power Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0106",
+      "Name": "Radio Caprice - Melodic Power Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0107",
+      "Name": "Radio Caprice - Power Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0108",
+      "Name": "ProgRadio The Dragon's Tower",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0109",
+      "Name": "Radio Caprice - Progressive Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0110",
+      "Name": "Radio Caprice - Symphonic Power Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0111",
+      "Name": "RadCap - Crossover Thrash Metal",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0112",
+      "Name": "Radio Caprice",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0113",
+      "Name": "1.FM - Alternative Rock X Hits Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0114",
+      "Name": "1.FM - Gorilla FM Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0115",
+      "Name": "42fm Radio Station",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0116",
+      "Name": "BestOfRock.FM Alternative Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0117",
+      "Name": "Indie X FM",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0118",
+      "Name": "Indie X FM",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0119",
+      "Name": "La Grosse Radio Rock Alternative",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0120",
+      "Name": "Media Radio Castellana",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0121",
+      "Name": "Neuro 21 Station",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0122",
+      "Name": "Radio Dzwiek",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0123",
+      "Name": "Radio Paradise – Rock Mix",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0124",
+      "Name": "Radio ROCKS Новий Рок 103.6FM HD",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0125",
+      "Name": "RadioActive – ISKC",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0126",
+      "Name": "Static – 90s & 2000s Alt Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0127",
+      "Name": "UnderGRAND Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0128",
+      "Name": "Blues Cafe – ISKC",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0129",
+      "Name": "blues music fan radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0130",
+      "Name": "Bluesway Online Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0131",
+      "Name": "#joint radio Blues Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0132",
+      "Name": "1.FM - Classic Rock Replay Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0133",
+      "Name": "1.FM - Rock Classics Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0134",
+      "Name": "4U Classic Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0135",
+      "Name": "Baars classic Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0136",
+      "Name": "Badrock Classic Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0137",
+      "Name": "Badrock Golden Era",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0138",
+      "Name": "Badrock National",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0139",
+      "Name": "Bar Legend Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0140",
+      "Name": "BDPST ROCK HQ",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0141",
+      "Name": "Big Cactus Classic Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0142",
+      "Name": "Big Hits Radio QLD Townsville North Queensland 20220701",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0143",
+      "Name": "Blackwood FM",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0144",
+      "Name": "BoomFM Classics",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0145",
+      "Name": "CJLO 1690AM",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0146",
+      "Name": "Classic Rock Legends Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0147",
+      "Name": "FFH Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0148",
+      "Name": "Free FM",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0149",
+      "Name": "Free FM Madrid",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0150",
+      "Name": "Free FM Rock Austral",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0151",
+      "Name": "Free FM Rock Bombay",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0152",
+      "Name": "Homemade Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0153",
+      "Name": "ISKC Old Men's Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0154",
+      "Name": "JBRadio2",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0155",
+      "Name": "Lonely Oak - Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0156",
+      "Name": "Megarock Radio – All Request Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0157",
+      "Name": "mmRadio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0158",
+      "Name": "MOTORADIO",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0159",
+      "Name": "Muskegon Channel Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0160",
+      "Name": "Nation Rocks",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0161",
+      "Name": "New Clear Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0162",
+      "Name": "Now Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0163",
+      "Name": "Old Men's Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0164",
+      "Name": "Oxygen Classic Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0165",
+      "Name": "Pinguin Classics",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0166",
+      "Name": "Power Pop Rock Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0167",
+      "Name": "RADIO BOB! Best of Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0168",
+      "Name": "RADIO BOB! Classic Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0169",
+      "Name": "Radio Caprice - Classic Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0170",
+      "Name": "Radio Caroline 259 MP3 320",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0171",
+      "Name": "radio club 80 rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0172",
+      "Name": "Radio Ripley",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0173",
+      "Name": "Radio ROKS Ballads",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0174",
+      "Name": "Radio ROKS Classic Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0175",
+      "Name": "Radio Sahar",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0176",
+      "Name": "Retro Music Television",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0177",
+      "Name": "Rock FM 96.9",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0178",
+      "Name": "Rock Radio XXL – ISKC",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0179",
+      "Name": "Rock Radio – ISKC",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0180",
+      "Name": "Rock Velvet Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0181",
+      "Name": "ROQ FM - Australia's Favourite ROQ (MP3 320k)",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0182",
+      "Name": "Sfliny 70's Classic Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0183",
+      "Name": "Soma Left Coast 70s",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0184",
+      "Name": "St Louis Classic Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0185",
+      "Name": "St Louis Classic Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0186",
+      "Name": "Star Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0187",
+      "Name": "Stumble In The Dark Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0188",
+      "Name": "Яхт-Радио+Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0189",
+      "Name": "Radio Caprice - Grunge",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0190",
+      "Name": "Addict Radio Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0191",
+      "Name": "BeRock Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0192",
+      "Name": "BestOfRock.FM ACDC",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0193",
+      "Name": "BestOfRock.FM Deutsch Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0194",
+      "Name": "BestOfRock.FM Hard Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0195",
+      "Name": "FluxFM Hard Rock FM",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0196",
+      "Name": "Freshrock Internet Radio Station",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0197",
+      "Name": "Hardrock Channel",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0198",
+      "Name": "Insane Realm Radio II",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0199",
+      "Name": "ISKC Only Live",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0200",
+      "Name": "Munich's Hardest Hits",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0201",
+      "Name": "RADIO BOB! Hardrock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0202",
+      "Name": "RADIO BOB! Rock Hits",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0203",
+      "Name": "Radio Caprice - Hard Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0204",
+      "Name": "Radio Caprice - HeavyPsych (heavy psychedelic rock)",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0205",
+      "Name": "Radio Drachenblut",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0206",
+      "Name": "Rock Melodic Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0207",
+      "Name": "Rock Melodic Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0208",
+      "Name": "8Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0209",
+      "Name": "Alt & Indie Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0210",
+      "Name": "DumDUM",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0211",
+      "Name": "GDS.FM",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0212",
+      "Name": "HEADY",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0213",
+      "Name": "Oxygen Indie",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0214",
+      "Name": "Pinguin Indie",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0215",
+      "Name": "The Independent FM",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0216",
+      "Name": "ГУСЬ.Бигрум",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0217",
+      "Name": "Delicious Agony Progressive Rock Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0218",
+      "Name": "House of Prog",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0219",
+      "Name": "House of Prog",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0220",
+      "Name": "ISKC Rock Radio RPO (Recent Prog Only)",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0221",
+      "Name": "ISKC Rock Radio RPO (Recent Prog Only)",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0222",
+      "Name": "Prog Palace Radio's The Courtyard",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0223",
+      "Name": "ProgRadio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0224",
+      "Name": "Progressieve Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0225",
+      "Name": "RADCAP: PROGRESSIVE ROCK",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0226",
+      "Name": "Radio Caprice - Progressive Folk",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0227",
+      "Name": "RadCap - Oi Punk Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0228",
+      "Name": "Russian Punk rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0229",
+      "Name": "#joint radio Reggae",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0230",
+      "Name": "107.9 Pearl Fm",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0231",
+      "Name": "80s Alive",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0232",
+      "Name": "A MISSISSIPPI BLUES",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0233",
+      "Name": "Bar Legend Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0234",
+      "Name": "BDPST ROCK - 320 kbit/s",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0235",
+      "Name": "Cool Radio Serbia",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0236",
+      "Name": "DR P3 (AAC)",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0237",
+      "Name": "FM 103.9 A Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0238",
+      "Name": "Free FM 80s New York",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0239",
+      "Name": "Free Radio Luxembourg FRL",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0240",
+      "Name": "Galychyna",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0241",
+      "Name": "ICE RADIO",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0242",
+      "Name": "J-Rock (Japanese Rock Music)",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0243",
+      "Name": "La Clave 92.9FM",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0244",
+      "Name": "LABR Love a Brother Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0245",
+      "Name": "Le Bon Mix - AAC320LC",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0246",
+      "Name": "MPM Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0247",
+      "Name": "Nostalgie Russia",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0248",
+      "Name": "Old School Music",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0249",
+      "Name": "Only Live",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0250",
+      "Name": "Oxygen Magyar Zene",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0251",
+      "Name": "Pinguin On The Rocks",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0252",
+      "Name": "Radio Caprice - Art Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0253",
+      "Name": "Radio Caprice - Post-rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0254",
+      "Name": "Radio Caprice - Russian Folk Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0255",
+      "Name": "Radio Caprice - Space Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0256",
+      "Name": "Radio Caprice - Surf Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0257",
+      "Name": "Radio Caprice Math Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0258",
+      "Name": "Radio Jackie (HiEnd)",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0259",
+      "Name": "Radio Paradise Rock Mix 320k AAC",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0260",
+      "Name": "Radio Paradise Rock Mix FLAC",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0261",
+      "Name": "Radio Paradise Rock Mix FLAC+meta",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0262",
+      "Name": "Radio ROKS Ukrainian",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0263",
+      "Name": "Rock FM",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0264",
+      "Name": "ROCK FM: 103.9",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0265",
+      "Name": "Rocksteady / Lovers Rock - Caprice Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0266",
+      "Name": "Sfliny Elton John Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0267",
+      "Name": "SomaFM Heavyweight Reggae (256k MP3)",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0268",
+      "Name": "SomaFM Left Coast 70s (320k MP3)",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0269",
+      "Name": "Super Stereo 5",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0270",
+      "Name": "Top20Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0271",
+      "Name": "Wheelerz Net Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0272",
+      "Name": "Yammat FM",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0273",
+      "Name": "РУССКОЕ 1995-2005 [HDR FLAC]",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0274",
+      "Name": "Rockabilly - Caprice Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0275",
+      "Name": "Rockabilly 626",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0276",
+      "Name": "Outlaw – Country Music Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0277",
+      "Name": "Radio Caprice - Southern Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0278",
+      "Name": "Radio Caprice - Stoner Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0279",
+      "Name": "Radio ATD",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0280",
+      "Name": "ROCK RADIO SI",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0281",
+      "Name": "KINK DNA Classics",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0282",
+      "Name": "Radio Ostrock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0283",
+      "Name": "LaRockaforte",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0284",
+      "Name": "Hard Rock Station",
+      "online": false,
+      "consecutive_failures": 1
+    },
+    {
+      "Id": "DRR-0285",
+      "Name": "Sonora Classic Rock (Hard & Metal)",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0286",
+      "Name": "Monsters of Rock",
+      "online": false,
+      "consecutive_failures": 1
+    },
+    {
+      "Id": "DRR-0287",
+      "Name": "GenXRock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0288",
+      "Name": "KINK DISTORTION",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0289",
+      "Name": "Metal Express Radio",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0290",
+      "Name": "KINK No Alternative",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0291",
+      "Name": "Radio BOB! ACDC Collection",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0292",
+      "Name": "Radio BOB! Harte Saite",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0293",
+      "Name": "Radio BOB! Punk",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0294",
+      "Name": "Radio BOB! Alternative Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0295",
+      "Name": "Radio BOB! Grunge",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0296",
+      "Name": "Radio BOB! Deutsch Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0297",
+      "Name": "Radio BOB! 90er Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0298",
+      "Name": "Radio BOB! 80er Rock",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0299",
+      "Name": "Rock Melodic Radio AOR",
+      "online": true,
+      "consecutive_failures": 0
+    },
+    {
+      "Id": "DRR-0300",
+      "Name": "Radio BOB! Queen-Stream",
+      "online": true,
+      "consecutive_failures": 0
+    }
+  ]
+}
