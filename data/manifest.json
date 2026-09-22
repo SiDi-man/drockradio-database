@@ -1,7 +1,7 @@
 {
   "DatabaseVersion": 1,
-  "LastUpdatedUtc": "2026-09-22T09:02:44Z",
+  "LastUpdatedUtc": "2026-09-22T09:28:06Z",
   "StationCount": 300,
-  "DownloadUrl": "REPLACE_WITH_PUBLIC_RAW_STATIONS_URL",
+  "DownloadUrl": "https://raw.githubusercontent.com/SiDi-man/drockradio-database/main/data/stations.json",
   "Sha256": "34be1ea0bcdcf61bb6d2bf89da2c53db66186e2774a08c2afff07a4076bf0764"
 }

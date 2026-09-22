@@ -1,5 +1,5 @@
 {
-  "GeneratedUtc": "2026-09-22T09:02:44Z",
+  "GeneratedUtc": "2026-09-22T09:28:06Z",
   "StationCount": 300,
   "Changed": false,
   "Results": [
@@ -540,8 +540,8 @@
     {
       "Id": "DRR-0090",
       "Name": "Radio Rock Pirata",
-      "online": false,
-      "consecutive_failures": 1
+      "online": true,
+      "consecutive_failures": 0
     },
     {
       "Id": "DRR-0091",
@@ -936,8 +936,8 @@
     {
       "Id": "DRR-0156",
       "Name": "Megarock Radio – All Request Rock",
-      "online": false,
-      "consecutive_failures": 1
+      "online": true,
+      "consecutive_failures": 0
     },
     {
       "Id": "DRR-0157",
@@ -1290,8 +1290,8 @@
     {
       "Id": "DRR-0215",
       "Name": "The Independent FM",
-      "online": false,
-      "consecutive_failures": 1
+      "online": true,
+      "consecutive_failures": 0
     },
     {
       "Id": "DRR-0216",
@@ -1705,7 +1705,7 @@
       "Id": "DRR-0284",
       "Name": "Hard Rock Station",
       "online": false,
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "verified_candidates": []
     },
     {
@@ -1718,7 +1718,7 @@
       "Id": "DRR-0286",
       "Name": "Monsters of Rock",
       "online": false,
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "verified_candidates": []
     },
     {
