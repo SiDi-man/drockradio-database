@@ -1,5 +1,5 @@
 {
-  "GeneratedUtc": "2026-09-22T09:28:06Z",
+  "GeneratedUtc": "2026-09-28T09:56:03Z",
   "StationCount": 300,
   "Changed": false,
   "Results": [
@@ -342,8 +342,8 @@
     {
       "Id": "DRR-0057",
       "Name": "Thrash Heavy Metal - Caprice Radio",
-      "online": true,
-      "consecutive_failures": 0
+      "online": false,
+      "consecutive_failures": 1
     },
     {
       "Id": "DRR-0058",
@@ -1290,8 +1290,8 @@
     {
       "Id": "DRR-0215",
       "Name": "The Independent FM",
-      "online": true,
-      "consecutive_failures": 0
+      "online": false,
+      "consecutive_failures": 1
     },
     {
       "Id": "DRR-0216",
@@ -1446,8 +1446,8 @@
     {
       "Id": "DRR-0241",
       "Name": "ICE RADIO",
-      "online": true,
-      "consecutive_failures": 0
+      "online": false,
+      "consecutive_failures": 1
     },
     {
       "Id": "DRR-0242",
@@ -1488,8 +1488,8 @@
     {
       "Id": "DRR-0248",
       "Name": "Old School Music",
-      "online": true,
-      "consecutive_failures": 0
+      "online": false,
+      "consecutive_failures": 1
     },
     {
       "Id": "DRR-0249",
@@ -1705,7 +1705,7 @@
       "Id": "DRR-0284",
       "Name": "Hard Rock Station",
       "online": false,
-      "consecutive_failures": 3,
+      "consecutive_failures": 4,
       "verified_candidates": []
     },
     {
@@ -1718,7 +1718,7 @@
       "Id": "DRR-0286",
       "Name": "Monsters of Rock",
       "online": false,
-      "consecutive_failures": 3,
+      "consecutive_failures": 4,
       "verified_candidates": []
     },
     {
