@@ -1,5 +1,5 @@
 {
-  "GeneratedUtc": "2026-10-05T10:36:02Z",
+  "GeneratedUtc": "2026-10-12T11:00:43Z",
   "StationCount": 300,
   "Changed": false,
   "Results": [
@@ -853,7 +853,8 @@
       "Id": "DRR-0142",
       "Name": "Big Hits Radio QLD Townsville North Queensland 20220701",
       "online": false,
-      "consecutive_failures": 1
+      "consecutive_failures": 2,
+      "verified_candidates": []
     },
     {
       "Id": "DRR-0143",
@@ -1705,7 +1706,7 @@
       "Id": "DRR-0284",
       "Name": "Hard Rock Station",
       "online": false,
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "verified_candidates": []
     },
     {
@@ -1718,7 +1719,7 @@
       "Id": "DRR-0286",
       "Name": "Monsters of Rock",
       "online": false,
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "verified_candidates": []
     },
     {
