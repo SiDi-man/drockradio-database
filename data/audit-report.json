@@ -1,5 +1,5 @@
 {
-  "GeneratedUtc": "2026-10-19T09:02:38Z",
+  "GeneratedUtc": "2026-10-26T09:04:39Z",
   "StationCount": 300,
   "Changed": false,
   "Results": [
@@ -534,8 +534,8 @@
     {
       "Id": "DRR-0089",
       "Name": "Radio Metal",
-      "online": true,
-      "consecutive_failures": 0
+      "online": false,
+      "consecutive_failures": 1
     },
     {
       "Id": "DRR-0090",
@@ -924,8 +924,8 @@
     {
       "Id": "DRR-0154",
       "Name": "JBRadio2",
-      "online": false,
-      "consecutive_failures": 1
+      "online": true,
+      "consecutive_failures": 0
     },
     {
       "Id": "DRR-0155",
@@ -1176,8 +1176,8 @@
     {
       "Id": "DRR-0196",
       "Name": "Freshrock Internet Radio Station",
-      "online": true,
-      "consecutive_failures": 0
+      "online": false,
+      "consecutive_failures": 1
     },
     {
       "Id": "DRR-0197",
@@ -1705,20 +1705,20 @@
       "Id": "DRR-0284",
       "Name": "Hard Rock Station",
       "online": false,
-      "consecutive_failures": 7,
+      "consecutive_failures": 8,
       "verified_candidates": []
     },
     {
       "Id": "DRR-0285",
       "Name": "Sonora Classic Rock (Hard & Metal)",
-      "online": true,
-      "consecutive_failures": 0
+      "online": false,
+      "consecutive_failures": 1
     },
     {
       "Id": "DRR-0286",
       "Name": "Monsters of Rock",
       "online": false,
-      "consecutive_failures": 7,
+      "consecutive_failures": 8,
       "verified_candidates": []
     },
     {
