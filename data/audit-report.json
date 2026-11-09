@@ -1,5 +1,5 @@
 {
-  "GeneratedUtc": "2026-11-02T11:20:54Z",
+  "GeneratedUtc": "2026-11-09T11:43:45Z",
   "StationCount": 300,
   "Changed": false,
   "Results": [
@@ -384,8 +384,8 @@
     {
       "Id": "DRR-0064",
       "Name": "Insane Realm Radio",
-      "online": false,
-      "consecutive_failures": 1
+      "online": true,
+      "consecutive_failures": 0
     },
     {
       "Id": "DRR-0065",
@@ -618,8 +618,8 @@
     {
       "Id": "DRR-0103",
       "Name": "Prog Palace Radio's The Armory",
-      "online": false,
-      "consecutive_failures": 1
+      "online": true,
+      "consecutive_failures": 0
     },
     {
       "Id": "DRR-0104",
@@ -876,8 +876,8 @@
     {
       "Id": "DRR-0146",
       "Name": "Classic Rock Legends Radio",
-      "online": false,
-      "consecutive_failures": 1
+      "online": true,
+      "consecutive_failures": 0
     },
     {
       "Id": "DRR-0147",
@@ -996,8 +996,8 @@
     {
       "Id": "DRR-0166",
       "Name": "Power Pop Rock Radio",
-      "online": false,
-      "consecutive_failures": 1
+      "online": true,
+      "consecutive_failures": 0
     },
     {
       "Id": "DRR-0167",
@@ -1128,8 +1128,8 @@
     {
       "Id": "DRR-0188",
       "Name": "Яхт-Радио+Rock",
-      "online": true,
-      "consecutive_failures": 0
+      "online": false,
+      "consecutive_failures": 1
     },
     {
       "Id": "DRR-0189",
@@ -1177,7 +1177,7 @@
       "Id": "DRR-0196",
       "Name": "Freshrock Internet Radio Station",
       "online": false,
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "verified_candidates": []
     },
     {
@@ -1189,8 +1189,8 @@
     {
       "Id": "DRR-0198",
       "Name": "Insane Realm Radio II",
-      "online": false,
-      "consecutive_failures": 1
+      "online": true,
+      "consecutive_failures": 0
     },
     {
       "Id": "DRR-0199",
@@ -1255,8 +1255,8 @@
     {
       "Id": "DRR-0209",
       "Name": "Alt & Indie Rock",
-      "online": false,
-      "consecutive_failures": 1
+      "online": true,
+      "consecutive_failures": 0
     },
     {
       "Id": "DRR-0210",
@@ -1333,14 +1333,14 @@
     {
       "Id": "DRR-0222",
       "Name": "Prog Palace Radio's The Courtyard",
-      "online": false,
-      "consecutive_failures": 1
+      "online": true,
+      "consecutive_failures": 0
     },
     {
       "Id": "DRR-0223",
       "Name": "ProgRadio",
-      "online": true,
-      "consecutive_failures": 0
+      "online": false,
+      "consecutive_failures": 1
     },
     {
       "Id": "DRR-0224",
@@ -1676,7 +1676,8 @@
       "Id": "DRR-0279",
       "Name": "Radio ATD",
       "online": false,
-      "consecutive_failures": 1
+      "consecutive_failures": 2,
+      "verified_candidates": []
     },
     {
       "Id": "DRR-0280",
@@ -1706,21 +1707,21 @@
       "Id": "DRR-0284",
       "Name": "Hard Rock Station",
       "online": false,
-      "consecutive_failures": 9,
+      "consecutive_failures": 10,
       "verified_candidates": []
     },
     {
       "Id": "DRR-0285",
       "Name": "Sonora Classic Rock (Hard & Metal)",
       "online": false,
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "verified_candidates": []
     },
     {
       "Id": "DRR-0286",
       "Name": "Monsters of Rock",
       "online": false,
-      "consecutive_failures": 9,
+      "consecutive_failures": 10,
       "verified_candidates": []
     },
     {
