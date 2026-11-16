@@ -1,5 +1,5 @@
 {
-  "GeneratedUtc": "2026-11-09T11:43:45Z",
+  "GeneratedUtc": "2026-11-16T11:33:20Z",
   "StationCount": 300,
   "Changed": false,
   "Results": [
@@ -1129,7 +1129,8 @@
       "Id": "DRR-0188",
       "Name": "Яхт-Радио+Rock",
       "online": false,
-      "consecutive_failures": 1
+      "consecutive_failures": 2,
+      "verified_candidates": []
     },
     {
       "Id": "DRR-0189",
@@ -1177,7 +1178,7 @@
       "Id": "DRR-0196",
       "Name": "Freshrock Internet Radio Station",
       "online": false,
-      "consecutive_failures": 3,
+      "consecutive_failures": 4,
       "verified_candidates": []
     },
     {
@@ -1189,8 +1190,8 @@
     {
       "Id": "DRR-0198",
       "Name": "Insane Realm Radio II",
-      "online": true,
-      "consecutive_failures": 0
+      "online": false,
+      "consecutive_failures": 1
     },
     {
       "Id": "DRR-0199",
@@ -1339,8 +1340,8 @@
     {
       "Id": "DRR-0223",
       "Name": "ProgRadio",
-      "online": false,
-      "consecutive_failures": 1
+      "online": true,
+      "consecutive_failures": 0
     },
     {
       "Id": "DRR-0224",
@@ -1676,7 +1677,7 @@
       "Id": "DRR-0279",
       "Name": "Radio ATD",
       "online": false,
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "verified_candidates": []
     },
     {
@@ -1707,21 +1708,21 @@
       "Id": "DRR-0284",
       "Name": "Hard Rock Station",
       "online": false,
-      "consecutive_failures": 10,
+      "consecutive_failures": 11,
       "verified_candidates": []
     },
     {
       "Id": "DRR-0285",
       "Name": "Sonora Classic Rock (Hard & Metal)",
       "online": false,
-      "consecutive_failures": 3,
+      "consecutive_failures": 4,
       "verified_candidates": []
     },
     {
       "Id": "DRR-0286",
       "Name": "Monsters of Rock",
       "online": false,
-      "consecutive_failures": 10,
+      "consecutive_failures": 11,
       "verified_candidates": []
     },
     {
