@@ -1,7 +1,7 @@
 {
-  "GeneratedUtc": "2026-11-16T11:33:20Z",
+  "GeneratedUtc": "2026-11-23T12:58:52Z",
   "StationCount": 300,
-  "Changed": false,
+  "Changed": true,
   "Results": [
     {
       "Id": "DRR-0001",
@@ -1128,9 +1128,8 @@
     {
       "Id": "DRR-0188",
       "Name": "Яхт-Радио+Rock",
-      "online": false,
-      "consecutive_failures": 2,
-      "verified_candidates": []
+      "online": true,
+      "consecutive_failures": 0
     },
     {
       "Id": "DRR-0189",
@@ -1178,7 +1177,7 @@
       "Id": "DRR-0196",
       "Name": "Freshrock Internet Radio Station",
       "online": false,
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "verified_candidates": []
     },
     {
@@ -1191,7 +1190,8 @@
       "Id": "DRR-0198",
       "Name": "Insane Realm Radio II",
       "online": false,
-      "consecutive_failures": 1
+      "consecutive_failures": 2,
+      "verified_candidates": []
     },
     {
       "Id": "DRR-0199",
@@ -1677,7 +1677,7 @@
       "Id": "DRR-0279",
       "Name": "Radio ATD",
       "online": false,
-      "consecutive_failures": 3,
+      "consecutive_failures": 4,
       "verified_candidates": []
     },
     {
@@ -1708,21 +1708,44 @@
       "Id": "DRR-0284",
       "Name": "Hard Rock Station",
       "online": false,
-      "consecutive_failures": 11,
+      "consecutive_failures": 12,
       "verified_candidates": []
     },
     {
       "Id": "DRR-0285",
       "Name": "Sonora Classic Rock (Hard & Metal)",
       "online": false,
-      "consecutive_failures": 4,
-      "verified_candidates": []
+      "consecutive_failures": 5,
+      "verified_candidates": [
+        {
+          "score": 1.35,
+          "name": "Sonora Classic Rock (Hard & Metal)",
+          "stream": "http://s18.myradiostream.com:6664/;",
+          "homepage": "https://www.sonoraclassicrock.com/",
+          "country": "Mexico",
+          "bitrate": 192,
+          "codec": "MP3"
+        },
+        {
+          "score": 1.35,
+          "name": "Sonora Classic Rock (Hard & Metal)",
+          "stream": "http://s25.myradiostream.com:5764/;",
+          "homepage": "https://www.sonoraclassicrock.com/",
+          "country": "Mexico",
+          "bitrate": 192,
+          "codec": "MP3"
+        }
+      ],
+      "applied_replacement": {
+        "old": "http://46.105.122.141:6664/;",
+        "new": "http://s18.myradiostream.com:6664/;"
+      }
     },
     {
       "Id": "DRR-0286",
       "Name": "Monsters of Rock",
       "online": false,
-      "consecutive_failures": 11,
+      "consecutive_failures": 12,
       "verified_candidates": []
     },
     {
